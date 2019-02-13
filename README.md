@@ -1,6 +1,6 @@
 # Solution as Follows :
 
-````
+````javascript
 function maxDuffelBagValue(_cakeTypes, _wtCapacity) {
     var maxValCapacities = [];
     for (var i = 0; i <= _wtCapacity; i++) {
